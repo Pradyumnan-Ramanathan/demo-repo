@@ -8,7 +8,7 @@ Steps involved :
   5. Evaluate the mdoel on test data
   6. Classify a new image
 
-Convolutional Neural Network
+# Convolutional Neural Network
 Preferred model for image classification
   Steps invloved : 
   1.Feature extraction
