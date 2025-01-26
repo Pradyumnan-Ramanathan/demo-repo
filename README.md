@@ -1,5 +1,6 @@
 # Image Classification
-Deep learning model(convolutional neural network) to classify images of biryani and butter chicken
+Deep learning model(convolutional neural network) to classify images of biryani and butter chicken 
+
 Steps involved : 
   1. Import data
   2. Preprocess data 
@@ -10,7 +11,9 @@ Steps involved :
 
 # Convolutional Neural Network
 Preferred model for image classification
+
 Framework - tensorflow
+
 Steps invloved :
   1. Feature extraction
   2. Max pooling
