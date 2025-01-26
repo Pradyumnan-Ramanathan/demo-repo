@@ -10,9 +10,11 @@ Steps involved :
 
 # Convolutional Neural Network
 Preferred model for image classification
-  Steps invloved : 
-  1.Feature extraction
-  2.Max pooling
-  3.Flattening
-  4.Passing the data into an artificial neural network
+Framework - tensorflow
+Steps invloved :
+  1. Feature extraction
+  2. Max pooling
+  3. Flattening
+  4. Passing the flattened image into an artificial neural network
+  
   
